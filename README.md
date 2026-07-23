@@ -20,6 +20,19 @@ Esse foi o meu primeiro projeto completo utilizando Python. O principal objetivo
 * JSON
 * VS Code
 * Git
+## 📸 Demonstração do projeto
+
+### Menu principal
+
+<img src="assets/menu.png" width="700">
+
+### Lista de jogos
+
+<img src="assets/lista-jogos.png" width="700">
+
+### Estatísticas
+
+<img src="assets/estatisticas.png" width="700">
 
 ## Estrutura do projeto
 

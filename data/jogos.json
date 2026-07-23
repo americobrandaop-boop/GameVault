@@ -78,5 +78,21 @@
         "plataforma": "PC",
         "preco": 229.9,
         "nota": 9.9
+    },
+    {
+        "id": 11,
+        "nome": "GTA V",
+        "genero": "Ação",
+        "plataforma": "PC",
+        "preco": 120.0,
+        "nota": 10.0
+    },
+    {
+        "id": 12,
+        "nome": "Naruto",
+        "genero": "Luta",
+        "plataforma": "Video Game",
+        "preco": 120.0,
+        "nota": 8.0
     }
 ]
