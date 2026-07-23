@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nome": "Minecraft",
+        "genero": "Sandbox",
+        "plataforma": "PC",
+        "preco": 149.9,
+        "nota": 9.8
+    },
+    {
+        "id": 2,
+        "nome": "The Witcher 3",
+        "genero": "RPG",
+        "plataforma": "PC",
+        "preco": 99.9,
+        "nota": 9.9
+    },
+    {
+        "id": 3,
+        "nome": "Red Dead Redemption 2",
+        "genero": "Ação/Aventura",
+        "plataforma": "PC",
+        "preco": 249.9,
+        "nota": 9.8
+    },
+    {
+        "id": 4,
+        "nome": "EA Sports FC 26",
+        "genero": "Esporte",
+        "plataforma": "PS5",
+        "preco": 349.9,
+        "nota": 8.6
+    },
+    {
+        "id": 5,
+        "nome": "Cyberpunk 2077",
+        "genero": "RPG",
+        "plataforma": "PC",
+        "preco": 199.9,
+        "nota": 9.2
+    },
+    {
+        "id": 6,
+        "nome": "Hollow Knight",
+        "genero": "Metroidvania",
+        "plataforma": "PC",
+        "preco": 46.99,
+        "nota": 9.5
+    },
+    {
+        "id": 7,
+        "nome": "God of War Ragnarök",
+        "genero": "Ação",
+        "plataforma": "PS5",
+        "preco": 299.9,
+        "nota": 9.7
+    },
+    {
+        "id": 8,
+        "nome": "Forza Horizon 5",
+        "genero": "Corrida",
+        "plataforma": "Xbox",
+        "preco": 249.9,
+        "nota": 9.4
+    },
+    {
+        "id": 9,
+        "nome": "Valorant",
+        "genero": "FPS",
+        "plataforma": "PC",
+        "preco": 0.0,
+        "nota": 8.9
+    },
+    {
+        "id": 10,
+        "nome": "Elden Ring",
+        "genero": "RPG",
+        "plataforma": "PC",
+        "preco": 229.9,
+        "nota": 9.9
+    }
+]
