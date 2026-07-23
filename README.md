@@ -24,11 +24,11 @@ Esse foi o meu primeiro projeto completo utilizando Python. O principal objetivo
 
 ### Menu principal
 
-<img src="assets/menu.png" width="700">
+<img src="assets/menu.png.png" width="700">
 
-### Lista de jogos
+<img src="assets/lista-jogos.png.png" width="700">
 
-<img src="assets/lista-jogos.png" width="700">
+<img src="assets/estatisticas.png.png" width="700">
 
 ### Estatísticas
 
